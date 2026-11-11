@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+.pytest_cache/
+*.py[cod]
+*.egg-info/
+.env
+ha-commutes.csv
+ha-commutes.csv.lock
+ha-commutes.state.json
+data/
+history.json
+zones.json
+cron.log
